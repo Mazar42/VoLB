@@ -1,0 +1,25 @@
+/* utils imports*/
+
+@import "./utils/reset";
+@import "./utils/variables";
+
+/* base imports*/
+
+@import "./base/fonts";
+@import "./base/text-styles";
+
+/* elements imports*/
+
+@import "./components/navigation";
+@import "./components/logo";
+
+
+/* layout imports*/
+
+@import "./layout/footer";
+@import "./layout/general";
+
+/* pages imports */
+
+@import "./page/home";
+@import "./page/account";

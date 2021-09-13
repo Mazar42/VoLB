@@ -1,0 +1,15 @@
+body{
+    margin: 0.4rem auto;
+    max-width: 1296px;
+    background-color: $bg-color;
+}
+
+.home, .signup, .shops, .account, .not-found{
+    margin: 10px;
+
+    h1{
+        text-align: center;
+        margin-top: 30px;
+        font-size: 1.7rem;
+    }
+}

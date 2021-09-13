@@ -1,0 +1,12 @@
+.account{
+    .signup-btn{
+        margin-left: 4px;
+        color: $primary-color;
+        text-decoration: underline;
+
+        &:hover{
+            text-decoration: none;
+            color: black;
+        }
+    }
+}
